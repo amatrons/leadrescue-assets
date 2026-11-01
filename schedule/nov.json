@@ -1,0 +1,250 @@
+{
+ "account": "17841423911273905",
+ "timezone": "Asia/Kolkata",
+ "post_time": "20:30",
+ "voice": "ElevenLabs Riya Rao (00p7Mr8UUZabtl7W4XeM)",
+ "days": [
+  {
+   "date": "2026-11-02",
+   "type": "carousel",
+   "topic": "How to answer \"What's your fee?\" without losing the patient",
+   "theme": "Value",
+   "simran_images": 0,
+   "ready": true,
+   "image_urls": [
+    "https://raw.githubusercontent.com/amatrons/leadrescue-assets/main/value/v3/b1.jpg",
+    "https://raw.githubusercontent.com/amatrons/leadrescue-assets/main/value/v3/b2.jpg",
+    "https://raw.githubusercontent.com/amatrons/leadrescue-assets/main/value/v3/b3.jpg",
+    "https://raw.githubusercontent.com/amatrons/leadrescue-assets/main/value/v3/b4.jpg",
+    "https://raw.githubusercontent.com/amatrons/leadrescue-assets/main/value/v3/b5.jpg",
+    "https://raw.githubusercontent.com/amatrons/leadrescue-assets/main/value/v3/b6.jpg",
+    "https://raw.githubusercontent.com/amatrons/leadrescue-assets/main/value/v3/b7.jpg"
+   ],
+   "caption": "\"What's your fee?\" is the most common WhatsApp question a clinic gets 💬\n\nA bare number loses the patient. The reply that books them has 3 parts: price, value, slot.\n\nSwipe to see the reply that loses them and the one that books them 👉\n\n📌 Share this with your receptionist.\n💬 What's the most asked question at your clinic?\n\nFollow @joinleadrescue for one practical clinic growth tip every day.\n\n#ClinicGrowth #DoctorsOfIndia #ClinicOwners #DentalClinic #WhatsAppBusiness #PatientExperience #ClinicMarketing #HealthcareIndia"
+  },
+  {
+   "date": "2026-11-03",
+   "type": "post",
+   "topic": "Count your unread WhatsApps from last night. Comment the number.",
+   "theme": "Pain + engagement",
+   "simran_images": 0,
+   "ready": false
+  },
+  {
+   "date": "2026-11-04",
+   "type": "reel",
+   "topic": "Your clinic at 11 PM, without and with Lead Rescue",
+   "theme": "Pain to feature",
+   "simran_images": 1,
+   "ready": false
+  },
+  {
+   "date": "2026-11-05",
+   "type": "carousel",
+   "topic": "Reminder messages that cut no-shows (copy and use)",
+   "theme": "Value",
+   "simran_images": 0,
+   "ready": false
+  },
+  {
+   "date": "2026-11-06",
+   "type": "reel",
+   "topic": "Inside the panel: your Today screen every morning",
+   "theme": "Feature",
+   "simran_images": 0,
+   "ready": false
+  },
+  {
+   "date": "2026-11-07",
+   "type": "post",
+   "topic": "The patient who waits books the clinic that answered first",
+   "theme": "Pain",
+   "simran_images": 1,
+   "ready": false
+  },
+  {
+   "date": "2026-11-08",
+   "type": "reel",
+   "topic": "3 signs your front desk is overloaded",
+   "theme": "Pain",
+   "simran_images": 0,
+   "ready": false
+  },
+  {
+   "date": "2026-11-09",
+   "type": "carousel",
+   "topic": "6 things you see inside the Lead Rescue panel",
+   "theme": "Feature tour",
+   "simran_images": 2,
+   "ready": false
+  },
+  {
+   "date": "2026-11-10",
+   "type": "reel",
+   "topic": "The waitlist that fills your cancellations",
+   "theme": "Feature",
+   "simran_images": 0,
+   "ready": false
+  },
+  {
+   "date": "2026-11-11",
+   "type": "post",
+   "topic": "Poll: when do most patients message your clinic?",
+   "theme": "Engagement",
+   "simran_images": 0,
+   "ready": false
+  },
+  {
+   "date": "2026-11-12",
+   "type": "reel",
+   "topic": "Missed call? A WhatsApp reply goes out in seconds",
+   "theme": "Feature",
+   "simran_images": 1,
+   "ready": false
+  },
+  {
+   "date": "2026-11-13",
+   "type": "carousel",
+   "topic": "6 Google profile fixes for more patient calls",
+   "theme": "Value",
+   "simran_images": 0,
+   "ready": false
+  },
+  {
+   "date": "2026-11-14",
+   "type": "reel",
+   "topic": "Chest pain on WhatsApp: booking stops, your team is alerted",
+   "theme": "Feature, trust",
+   "simran_images": 0,
+   "ready": false
+  },
+  {
+   "date": "2026-11-15",
+   "type": "post",
+   "topic": "Myth vs fact: will AI get my WhatsApp number banned?",
+   "theme": "Objection",
+   "simran_images": 0,
+   "ready": false
+  },
+  {
+   "date": "2026-11-16",
+   "type": "carousel",
+   "topic": "Your week in numbers: what the Reports page shows",
+   "theme": "Feature",
+   "simran_images": 2,
+   "ready": false
+  },
+  {
+   "date": "2026-11-17",
+   "type": "reel",
+   "topic": "What one missed enquiry a day really costs your clinic",
+   "theme": "Pain",
+   "simran_images": 0,
+   "ready": false
+  },
+  {
+   "date": "2026-11-18",
+   "type": "post",
+   "topic": "5 questions to ask before buying any clinic software",
+   "theme": "Value",
+   "simran_images": 0,
+   "ready": false
+  },
+  {
+   "date": "2026-11-19",
+   "type": "reel",
+   "topic": "Replies in English, Hindi and Hinglish",
+   "theme": "Feature",
+   "simran_images": 1,
+   "ready": false
+  },
+  {
+   "date": "2026-11-20",
+   "type": "carousel",
+   "topic": "How to get more Google reviews from happy patients",
+   "theme": "Value + feature",
+   "simran_images": 0,
+   "ready": false
+  },
+  {
+   "date": "2026-11-21",
+   "type": "reel",
+   "topic": "A patient record that fills itself",
+   "theme": "Feature",
+   "simran_images": 0,
+   "ready": false
+  },
+  {
+   "date": "2026-11-22",
+   "type": "post",
+   "topic": "Fewer no-shows. Fuller diary. Calmer front desk.",
+   "theme": "Benefit",
+   "simran_images": 1,
+   "ready": false
+  },
+  {
+   "date": "2026-11-23",
+   "type": "carousel",
+   "topic": "Already have hospital software? Keep it.",
+   "theme": "Objection",
+   "simran_images": 2,
+   "ready": false
+  },
+  {
+   "date": "2026-11-24",
+   "type": "reel",
+   "topic": "Google Calendar sync and logins for your staff",
+   "theme": "Feature",
+   "simran_images": 0,
+   "ready": false
+  },
+  {
+   "date": "2026-11-25",
+   "type": "post",
+   "topic": "Doctors, what's the most annoying WhatsApp message you get?",
+   "theme": "Engagement",
+   "simran_images": 0,
+   "ready": false
+  },
+  {
+   "date": "2026-11-26",
+   "type": "reel",
+   "topic": "Your patients' data: masked numbers, 2FA, activity trail",
+   "theme": "Trust",
+   "simran_images": 0,
+   "ready": false
+  },
+  {
+   "date": "2026-11-27",
+   "type": "carousel",
+   "topic": "How Lead Rescue works in 5 steps",
+   "theme": "Feature",
+   "simran_images": 0,
+   "ready": false
+  },
+  {
+   "date": "2026-11-28",
+   "type": "reel",
+   "topic": "A day in the life of a clinic using Lead Rescue",
+   "theme": "Benefit",
+   "simran_images": 1,
+   "ready": false
+  },
+  {
+   "date": "2026-11-29",
+   "type": "post",
+   "topic": "1 message that brings back patients who never returned",
+   "theme": "Value",
+   "simran_images": 0,
+   "ready": false
+  },
+  {
+   "date": "2026-11-30",
+   "type": "carousel",
+   "topic": "November recap: 10 clinic growth tips to save",
+   "theme": "Value",
+   "simran_images": 2,
+   "ready": false
+  }
+ ]
+}
